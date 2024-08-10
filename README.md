@@ -32,11 +32,8 @@ To get started with this repository, follow these steps:
 
 Here is a list of problems and their corresponding solutions:
 
-- **[Two Sum](https://leetcode.com/problems/two-sum/)** - `src/TwoSum.java`
-- **[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)** - `src/AddTwoNumbers.java`
-- **[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)** - `src/LongestSubstringWithoutRepeatingCharacters.java`
-- **[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)** - `src/MedianOfTwoSortedArrays.java`
-- **[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)** - `src/LongestPalindromicSubstring.java`
+- **[Two Sum](https://leetcode.com/problems/two-sum/)** - `TwoSum.java`
+- **[Remove Duplicate From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)** - `RemoveDuplicateFromSortedArray.java `
 
 Feel free to browse through the files to see how different problems are approached and solved.
 
