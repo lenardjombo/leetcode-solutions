@@ -25,7 +25,7 @@ To get started with this repository, follow these steps:
     ```
 
 3. **Explore the Code:**
-   - Each problem is solved in its respective Java file located in the `src` directory.
+   - Each problem is solved in its respective Java file located in the  directory.
    - Problems are organized by their LeetCode problem number or name.
 
 ## List of Problems
