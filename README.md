@@ -53,7 +53,7 @@ If you have any questions or suggestions, feel free to reach out:
 - **GitHub:** [github.com/lenardjombo](https://github.com/lenardjombo)
 - **LinkedIn:** [linkedin.com/in/lenardjombo](https://linkedin.com/in/lenardjombo)
 - **Medium:** [medium.com/@lenardjombo](https://medium.com/@lenardjombo)
-- **LeetCode:** [leetcode.com/lenardjombo](https://leetcode.com/lenardjombo)
+- **LeetCode:** [leetcode.com/lenardjombo](https://leetcode.com/u/jombo03/)
 
 Thank you for visiting!
 
