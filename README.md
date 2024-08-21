@@ -35,7 +35,7 @@ Here is a list of problems and their corresponding solutions:
 - **[Two Sum](https://leetcode.com/problems/two-sum/)** - `TwoSum.java`
 - **[Remove Duplicate From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)** - `RemoveDuplicateFromSortedArray.java `
 - **[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)** - `MedianOfTwoSortedArrays.java `
-- **[ Multiplication table up to n].
+- **[Multiplication table up to n](https://github.com/lenardjombo/leetcode-java-solutions/blob/main/MultiplicationTableUpTo-n.java)** - `Multiplication table up to n`.
 
 Feel free to browse through the files to see how different problems are approached and solved.
 
