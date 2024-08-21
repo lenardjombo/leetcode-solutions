@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise19 {
+public class IntegerToBinary {
     public static void main(String args[]) {
         // Declare variables to store decimal number, quotient, and an array for binary digits
         int dec_num, quot, i = 1, j;
