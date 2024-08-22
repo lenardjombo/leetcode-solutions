@@ -37,6 +37,7 @@ Here is a list of problems and their corresponding solutions:
 - **[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)** - `MedianOfTwoSortedArrays.java `
 - **[Multiplication table up to n](https://github.com/lenardjombo/leetcode-java-solutions/blob/main/MultiplicationTableUpTo-n.java)** - `Multiplication table up to n`.
 - **[Integer (n) to Binary](https://github.com/lenardjombo/leetcode-java-solutions/blob/main/IntergerToBinary.java)** - `Integer to Binary`.
+- **[FizzBuzz](https://leetcode.com/problems/fizz-buzz/)** - `FizzBuzz`
 
 Feel free to browse through the files to see how different problems are approached and solved.
 
