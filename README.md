@@ -39,6 +39,8 @@ Here is a list of problems and their corresponding solutions:
 - **[Integer (n) to Binary](https://github.com/lenardjombo/leetcode-java-solutions/blob/main/IntergerToBinary.java)** - `Integer to Binary`.
 - **[FizzBuzz](https://leetcode.com/problems/fizz-buzz/)** - `FizzBuzz`
 - **[Add Two Integers](https://leetcode.com/problems/add-two-integers/)** - `Add Two Integers`
+- **[Factorial (sum)](https://leetcode.com/problems/FactorialRecursion/)** - `Factorial Sum of n numbers`
+- **[Fibonacci Series](https://leetcode.com/problems/FinonacciRecursion/)** - `Fibonacci series`
 
 Feel free to browse through the files to see how different problems are approached and solved.
 
