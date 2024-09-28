@@ -42,6 +42,7 @@ Here is a list of problems and their corresponding solutions:
 - **[Factorial (sum)](https://leetcode.com/problems/FactorialRecursion/)** - `Factorial Sum of n numbers`
 - **[Fibonacci Series](https://leetcode.com/problems/FinonacciRecursion/)** - `Fibonacci series`
 - **[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/submissions/1395875963/)** - `Richest Customer Wealth`
+- **[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)** - `Fast and Last Position of an Element`
 
 Feel free to browse through the files to see how different problems are approached and solved.
 
