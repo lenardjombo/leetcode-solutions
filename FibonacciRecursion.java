@@ -12,7 +12,7 @@ public class FibonacciRecursion {
   
 public static void main(String[] args) {  
     int count=15;      
-      System.out.print(n1+" "+n2);//printing 0 and 1      
+      System.out.print(n1+" "+n2);//Printing 0 and 1      
       printFibo(count-2);  
 }  
 }  
