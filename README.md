@@ -43,6 +43,8 @@ Here is a list of problems and their corresponding solutions:
 - **[Fibonacci Series](https://leetcode.com/problems/FinonacciRecursion/)** - `Fibonacci series`
 - **[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/submissions/1395875963/)** - `Richest Customer Wealth`
 - **[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)** - `Fast and Last Position of an Element`
+- **[Maximum sum of Two smallests in every sub-array](https://www.geeksforgeeks.org/problem-of-the-day?utm_source=gfgpractice&utm_medium=events_page&utm_campaign=events_series_problem_of_the_day)** - `Two Smallests in Every Subarray
+`
 
 Feel free to browse through the files to see how different problems are approached and solved.
 
