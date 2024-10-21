@@ -7,6 +7,7 @@ public class Fibonacci {
         if(n < 2){
             return n;
         }
-        return Fibo(n-1)+Fibo(n-2);
+        return Fibo(n-1)+Fibo(n-2);//This approach cannot calculate the 50th fibonacci number due to stack overflow errors
+        //A fibonacce can be used instead,the formulae approach is a more optimised approach
     } 
 }
