@@ -18,3 +18,4 @@ public class Main{
         System.out.println("Hello world 3");
     }
 }
+//Function calls within functions
