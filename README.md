@@ -33,7 +33,8 @@ To get started with this repository, follow these steps:
 Here is a list of problems and their corresponding solutions:
 
 - **[Two Sum](https://leetcode.com/problems/two-sum/)** - `TwoSum.java`
-- **[Binary Search]()** - `main.java`
+- **[Binary Search]()** - `main.go`
+-  **[Linear Search]()** - `LSearch.go`
 - **[Remove Duplicate From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)** - `RemoveDuplicateFromSortedArray.java `
 - **[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)** - `MedianOfTwoSortedArrays.java `
 - **[Multiplication table up to n](https://github.com/lenardjombo/leetcode-java-solutions/blob/main/MultiplicationTableUpTo-n.java)** - `Multiplication table up to n`.
